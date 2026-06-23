@@ -10,7 +10,6 @@ The application is designed to handle standard arithmetic computations through a
 
 Below is the live execution environment and UI interface of the calculator application from my local development workspace:
 
-<!-- Streamlit UI Screenshot Section -->
 <div align="center">
   <img src="./screenshot.png" alt="Streamlit Calculator UI Preview" width="85%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid #30363d;">
   <p><i>Streamlit Web Interface — Dynamic Calculator Dashboard</i></p>
@@ -38,3 +37,10 @@ Below is the live execution environment and UI interface of the calculator appli
 ## 🚀 How to Run the Project Locally
 
 Follow these precise steps to spin up the web dashboard on your local PC machine:
+
+### 1. Clone the Workspace
+
+```bash
+git clone [https://github.com/amirsohail100/your-repository-name.git](https://github.com/amirsohail100/your-repository-name.git)
+cd your-repository-name
+```
