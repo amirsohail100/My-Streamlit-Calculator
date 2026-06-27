@@ -41,6 +41,6 @@ Follow these precise steps to spin up the web dashboard on your local PC machine
 ### 1. Clone the Workspace
 
 ```bash
-git clone [https://github.com/amirsohail100/your-repository-name.git](https://github.com/amirsohail100/your-repository-name.git)
-cd your-repository-name
+git clone [https://github.com/amirsohail100/My-Streamlit-Calculator.git](https://github.com/amirsohail100/My-Streamlit-Calculator.git)
+cd My-Streamlit-Calculator
 ```
